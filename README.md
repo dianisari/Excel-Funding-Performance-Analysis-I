@@ -30,4 +30,3 @@ This project analyzes funding performance across different regions and evaluates
 
 ## Files
 - Funding_Performance_Analysis.xlsx
-- Portfolio.pdf
